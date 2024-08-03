@@ -142,7 +142,7 @@ python test_without_adaptation.py \
         url={https://openreview.net/forum?id=SHMi1b7sjXk}
 }
 @inproceedings{
-        gandelsman2022testtime,
+        2019testtime,
         title={Test-Time Training for Out-of-Distribution Generalization},
         author={Yu Sun, Xiaolong Wang, Zhuang Liu, John Miller, Alexei A. Efros, Moritz Hardt},
         booktitle={International Conference on Machine Learning},
