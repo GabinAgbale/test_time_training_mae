@@ -1,4 +1,6 @@
-## Test-Time Training with Masked Autoencoders<br><sub>Official PyTorch Implementation</sub>
+## Test-Time Training with Masked Autoencoders<br><sub>Study and Extension</sub>
+This project consists in an extensive study of the Test-Time Training method along with a proposed online extension inspired by [Yu Sun et al. 2019](https://openreview.net/forum?id=HyezmlBKwr). It was conducted by [Gabin Agbale](https://github.com/GabinAgbale) and [Marguerite Petit-Talamon](https://github.com/margueritetalamon) as part of the Master MVA's Computer Vision class (C. Schmid, J. Ponce, G. Varol). 
+
 
 ### [Paper](https://arxiv.org/abs/2209.07522) | [Project Page](https://yossigandelsman.github.io/ttt_mae/index.html)
 
@@ -139,4 +141,14 @@ python test_without_adaptation.py \
         year={2022},
         url={https://openreview.net/forum?id=SHMi1b7sjXk}
 }
+@inproceedings{
+        gandelsman2022testtime,
+        title={Test-Time Training for Out-of-Distribution Generalization},
+        author={Yu Sun, Xiaolong Wang, Zhuang Liu, John Miller, Alexei A. Efros, Moritz Hardt},
+        booktitle={International Conference on Machine Learning},
+        editor={},
+        year={2020},
+        url={https://arxiv.org/abs/1909.13231}
+}
+
 ```
