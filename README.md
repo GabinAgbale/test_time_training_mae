@@ -1,5 +1,5 @@
 ## Test-Time Training with Masked Autoencoders<br><sub>Study and Extension</sub>
-This project consists in an extensive study of the Test-Time Training method along with a proposed online extension inspired by [Yu Sun et al. 2019](https://openreview.net/forum?id=HyezmlBKwr). It was conducted by [Gabin Agbale](https://github.com/GabinAgbale) and [Marguerite Petit-Talamon](https://github.com/margueritetalamon) as part of the Master MVA's Computer Vision class (C. Schmid, J. Ponce, G. Varol). 
+This project consists in an extensive study of the Test-Time Training method along with a proposed online extension inspired by [Yu Sun et al. 2019](https://openreview.net/forum?id=HyezmlBKwr). It was conducted by [Gabin Agbale](https://github.com/GabinAgbale) and [Marguerite Petit-Talamon](https://github.com/margueritetalamon) as part of the Master MVA's Computer Vision class (C. Schmid, J. Ponce, G. Varol). You may refer to the report pdf for more details (please note that the pdf might not load correctly on Safari).
 
 
 ### [Paper](https://arxiv.org/abs/2209.07522) | [Project Page](https://yossigandelsman.github.io/ttt_mae/index.html)
